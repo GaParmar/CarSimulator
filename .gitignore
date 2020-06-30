@@ -1,0 +1,5 @@
+sim/*
+tmp/*
+*.pyc
+unitylog.txt
+output/*
