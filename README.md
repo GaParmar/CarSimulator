@@ -10,3 +10,7 @@ Collect data from car simulator for dagger
     dc.collect_data(duration=500, output_folder="output/expert", override=True)
     dc.reset()
     ```
+
+## References
+ - https://github.com/autorope/donkeycar/blob/dev/donkeycar/parts/controller.py
+ -
